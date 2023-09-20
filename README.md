@@ -2,7 +2,7 @@
 # Traveling Salesman Problem with Interactive City Placement
 
 ## Overview
-This interactive example allows you to place cities on a canvas and then uses a genetic algorithm to solve the Traveling Salesman Problem (TSP) based on the cities you've placed.
+[This interactive example](https://michaellomuscio.github.io/Traveling-Salesman-Problem-with-Interactive-City-Placement/) allows you to place cities on a canvas and then uses a genetic algorithm to solve the Traveling Salesman Problem (TSP) based on the cities you've placed.
 
 ## How to Use
 - Open `index.html` in a web browser.
